@@ -73,10 +73,10 @@ export default function Home() {
       </div>
 
       <div className="w-full h-[5vh] bg-neutral-800 flex gap-1 items-center justify-center text-neutral-500">
-        {/* Footer section with a link to sad.codes */}
+        {/* Footer section with a link to Utkarsh */}
         Made with ❤️ by
-        <Link href="https://sad.codes" className="hover:opacity-75 text-gradient bg-gradient-to-br from-indigo-300 to-indigo-700">
-          sad.codes
+        <Link href="https://Utkarsh" className="hover:opacity-75 text-gradient bg-gradient-to-br from-indigo-300 to-indigo-700">
+          Utkarsh
         </Link>
       </div>
     </div>
